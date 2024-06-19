@@ -15,3 +15,24 @@ ACCAGCTAGGGATCGTCGCCTAGGTGAGCCGTTACCCCACCTACTAGCTAATCCCATCTGGGCACATCTG
 ATGGCATGAGGCCCGAAGGTCCCCCACTTTGGTCTTGCGACATTATGCGGTATTAGCTACCGTTTCCAGT
 AGTTATCCCCCTCCATCAGGCAGTTTCCCAGACATTACTCACCCGTCCGCCGCTCGTCACCCGAGAGCAA
 GCTCTCTGTGCTA
+
+# Steps to Download the FASTA File Manually
+1. Go to NCBI Nucleotide Database:
+
+Open your web browser and navigate to the NCBI Nucleotide Database: NCBI Nucleotide 
+
+2. Search for the Sequence:
+
+In the search bar, enter the accession number NZ_JAXBCM010000130.1 and press Enter.
+
+3. Access the Record:
+
+Click on the record for Klebsiella pneumoniae strain 16_VR A1.
+4. Download the FASTA File:
+
+On the record page, find the "Send to" option on the top right.
+Select "File" and choose "FASTA" as the format.
+Click "Create File" to download the FASTA file to your computer.
+
+Saved on the computer as sequence.fasta
+
