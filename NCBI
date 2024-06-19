@@ -1,0 +1,7 @@
+#Import Modules
+
+from Bio.Blast import NCBIWWW
+
+from Bio import SeqIO, SearchIO
+
+#help(NCBIWWW)(shift+Enter)
